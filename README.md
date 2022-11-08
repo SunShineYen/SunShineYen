@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Datacamp: https://app.datacamp.com/profile/sunshineyen \n
+Datacamp: https://app.datacamp.com/profile/sunshineyen\
 Leetcode: https://leetcode.com/softwaredesignerkevin/
